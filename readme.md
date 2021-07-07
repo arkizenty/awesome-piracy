@@ -146,7 +146,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ## VPNs
 
 ### VPN Guides and Tutorials
-- [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
 - [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
 - [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
@@ -156,12 +155,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
 
 ### VPN Subscription Services
-- [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
 - [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
-- [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
-- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
 
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
